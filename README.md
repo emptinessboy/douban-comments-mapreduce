@@ -44,9 +44,15 @@
 
 **打包并运行MapReduce：**
 
-#### 查看运行结果：
+[![2018010587-__22__0002.jpg](https://media.everdo.cn/tank/pic-bed/2021/03/02/2018010587-__22__0002.jpg)](https://up.media.everdo.cn/image/2613)
 
-#### 运行完成后可以通过浏览HDFS的输出文件夹查看效果。
+**查看运行结果：**
 
+运行完成后可以通过浏览HDFS的输出文件夹查看效果。
 
-#### 将HDFS的文件下载到本地 后，可以 看到基于中文分词的词频统计
+[![2018010587-__22__0003.jpg](https://media.everdo.cn/tank/pic-bed/2021/03/02/2018010587-__22__0003.jpg)](https://up.media.everdo.cn/image/2Wds)
+[![2018010587-__23__0001.jpg](https://media.everdo.cn/tank/pic-bed/2021/03/02/2018010587-__23__0001.jpg)](https://up.media.everdo.cn/image/2N8G)
+
+将HDFS的文件下载到本地 后，可以 看到基于中文分词的词频统计
+
+[![2018010587-__23__0002.jpg](https://media.everdo.cn/tank/pic-bed/2021/03/02/2018010587-__23__0002.jpg)](https://up.media.everdo.cn/image/2m39)
